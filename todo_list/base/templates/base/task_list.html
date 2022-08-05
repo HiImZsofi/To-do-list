@@ -11,14 +11,16 @@
     <table>
         <tr>
             <th>Item</th>
+            <th></th>
         </tr>
         {% for task in tasks %}
         <tr>
-            <th>{{task.title}}</th>
+            <td>{{task.title}}</td>
+            <td><a href="{% url 'task' task.id %}">View</a></td>
         </tr>
-        {%empty%}
+        {% empty %}
             <h3>No items in list</h3>
-        {%endfor %}
+        {% endfor %}
     </table>
 </body>
 </html>
