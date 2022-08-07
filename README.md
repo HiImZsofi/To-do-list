@@ -11,7 +11,8 @@ My first ever try with Python, and my first ever try with backend programming.
 
 <h1>How to run</h1>
 Clone this repo in VSCode or in your preferred code editor then run
-  ```
-python manage.py runserver
-```
+ ```sh
+        python manage.py runserver
+        ```
+
  then connect to http://127.0.0.1:8000/ and explore!
