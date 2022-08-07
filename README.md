@@ -16,4 +16,4 @@ Clone this repo in VSCode or in your preferred code editor then run
  <br>
  then connect to http://127.0.0.1:8000/ and explore!
  <br>
- <h3>Extensions needed: pylance, python</h3>
+ <h3>Environment needed: python</h3>
