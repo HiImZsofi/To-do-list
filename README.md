@@ -10,4 +10,4 @@ My first ever try with Python, and my first ever try with backend programming.
 <h3>!!This is based on a tutorial, made for learning purposes!!</h1>
 
 <h1>How to run</h1>
-Clone this repo in VSCode or in your preferred code editor then run `python manage.py runserver`, connect to http://127.0.0.1:8000/ and explore!
+Clone this repo in VSCode or in your preferred code editor then run <mark>python manage.py runserver</mark>, connect to http://127.0.0.1:8000/ and explore!
